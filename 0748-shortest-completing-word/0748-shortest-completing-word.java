@@ -1,44 +1,38 @@
 class Solution {
     public String shortestCompletingWord(String licensePlate, String[] words) {
-
-        int[] licenseFreq = new int[26];
-
+        int[] freq = new int[26];
+        licensePlate = licensePlate.toLowerCase();
         for (char ch : licensePlate.toCharArray()) {
+
             if (Character.isLetter(ch)) {
-                licenseFreq[Character.toLowerCase(ch) - 'a']++;
+                freq[ch - 'a']++;
             }
+
         }
-
-        String ans = "";
-
-        for (String word : words) {
-
-            if (isComplete(word, licenseFreq)) {
-
-                if (ans.equals("") || word.length() < ans.length()) {
-                    ans = word;
+        String res = "";
+        for (String s : words) {
+            if (FreqSame(s, freq)) {
+                if (res.equals("") || s.length() < res.length()) {
+                    res = s;
+                   
                 }
             }
         }
-
-        return ans;
+        return res;
     }
 
-
-    private boolean isComplete(String word, int[] licenseFreq) {
-
+    public boolean FreqSame(String s, int[] freq) {
         int[] wordFreq = new int[26];
-
-        for (char ch : word.toCharArray()) {
+        for (char ch : s.toCharArray()) {
             wordFreq[ch - 'a']++;
         }
-
         for (int i = 0; i < 26; i++) {
-            if (wordFreq[i] < licenseFreq[i]) {
+            if (freq[i] > wordFreq[i]) {
                 return false;
             }
         }
-
         return true;
+
     }
+
 }
