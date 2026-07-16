@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
