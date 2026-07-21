@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
