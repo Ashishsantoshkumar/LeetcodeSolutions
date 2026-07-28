@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
