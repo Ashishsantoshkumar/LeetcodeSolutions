@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0274-h-index/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 <!---LeetCode Topics End-->
