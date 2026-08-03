@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0520-detect-capital](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
