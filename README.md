@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+| [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Trie
