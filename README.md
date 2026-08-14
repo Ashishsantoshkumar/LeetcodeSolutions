@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
