@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
