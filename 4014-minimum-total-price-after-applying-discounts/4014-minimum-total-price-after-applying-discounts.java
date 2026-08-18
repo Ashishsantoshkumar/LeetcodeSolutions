@@ -17,8 +17,8 @@ class Solution {
         while (a >= 0) {
             ans += prices[a--];
         }
-        minNo = Math.min(minNo, ans);
-        return minNo;
+       
+        return ans;
 
     }
 }
