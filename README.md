@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/0520-detect-capital) |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
