@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Sorting
