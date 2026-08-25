@@ -21,7 +21,7 @@ class Solution {
                     result.clear();
                     result.add(list1[j]);
                 }
-                if (sum == minNo) {
+               else  if (sum == minNo) {
                     result.add(list1[j]);
                 }
             }
