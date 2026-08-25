@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0274-h-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
