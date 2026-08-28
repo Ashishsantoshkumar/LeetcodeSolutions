@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
