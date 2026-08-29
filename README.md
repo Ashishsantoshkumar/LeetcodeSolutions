@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0290-word-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/0520-detect-capital) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -207,5 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
