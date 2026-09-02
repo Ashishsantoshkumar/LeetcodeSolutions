@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
