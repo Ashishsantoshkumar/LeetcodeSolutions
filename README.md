@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
