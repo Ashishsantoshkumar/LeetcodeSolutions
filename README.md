@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3856-trim-trailing-vowels](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3856-trim-trailing-vowels/) | Easy |
 ## Math
