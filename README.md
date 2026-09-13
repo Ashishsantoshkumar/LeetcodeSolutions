@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
+| [0824-goat-latin](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0824-goat-latin/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
