@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
