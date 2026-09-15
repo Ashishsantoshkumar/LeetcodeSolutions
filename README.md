@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0766-toeplitz-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
