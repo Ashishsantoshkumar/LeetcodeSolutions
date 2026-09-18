@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
