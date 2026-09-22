@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
@@ -269,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 <!---LeetCode Topics End-->
