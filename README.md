@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
