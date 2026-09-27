@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
