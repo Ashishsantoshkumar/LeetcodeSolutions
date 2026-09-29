@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
