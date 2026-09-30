@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
+| [1507-reformat-date](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1507-reformat-date/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
