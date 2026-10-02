@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1122-relative-sort-array/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
 <!---LeetCode Topics End-->
