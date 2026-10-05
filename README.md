@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0677-map-sum-pairs/) | Medium |
 | [0819-most-common-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0819-most-common-word/) | Easy |
 | [0824-goat-latin](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0824-goat-latin/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
