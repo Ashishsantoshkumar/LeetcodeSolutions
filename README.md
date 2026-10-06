@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0917-reverse-only-letters/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -332,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
