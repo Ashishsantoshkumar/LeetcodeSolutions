@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
