@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1357-apply-discount-every-n-orders](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1395-count-number-of-teams](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1395-count-number-of-teams](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -344,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1395-count-number-of-teams](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1395-count-number-of-teams/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1395-count-number-of-teams](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1395-count-number-of-teams/) | Medium |
 <!---LeetCode Topics End-->
