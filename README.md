@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3770-largest-prime-from-consecutive-prime-sum/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3861-minimum-capacity-box](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3861-minimum-capacity-box/) | Easy |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/4065-rearrange-array-by-removing-distinct-values/) | Easy |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
