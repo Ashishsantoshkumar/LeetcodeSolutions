@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-count-number-of-teams](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1436-destination-city/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
