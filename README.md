@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1436-destination-city/) | Easy |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1436-destination-city](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1436-destination-city/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
