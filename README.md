@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1476-subrectangle-queries](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1476-subrectangle-queries/) | Medium |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
