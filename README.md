@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1408-string-matching-in-an-array/) | Easy |
+| [1417-reformat-the-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1417-reformat-the-string/) | Easy |
 | [1436-destination-city](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1496-path-crossing](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1496-path-crossing/) | Easy |
