@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1865-finding-pairs-with-a-certain-sum/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
+| [1995-count-special-quadruplets](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [1995-count-special-quadruplets](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
