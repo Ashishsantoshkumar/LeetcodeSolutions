@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1496-path-crossing](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1496-path-crossing/) | Easy |
 | [1507-reformat-date](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1507-reformat-date/) | Easy |
+| [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
