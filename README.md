@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0929-unique-email-addresses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0929-unique-email-addresses/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1122-relative-sort-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Divide and Conquer
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1314-matrix-block-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1314-matrix-block-sum/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Quicksort
