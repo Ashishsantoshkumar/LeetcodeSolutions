@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3484-design-spreadsheet](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2810-faulty-keyboard/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
