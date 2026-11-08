@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2761-prime-pairs-with-target-sum](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2761-prime-pairs-with-target-sum/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2810-faulty-keyboard/) | Easy |
