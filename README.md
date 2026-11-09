@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1417-reformat-the-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1417-reformat-the-string/) | Easy |
 | [1436-destination-city](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1496-path-crossing](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1496-path-crossing/) | Easy |
 | [1507-reformat-date](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1507-reformat-date/) | Easy |
 | [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Divide and Conquer
