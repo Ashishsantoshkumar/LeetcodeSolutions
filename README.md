@@ -412,4 +412,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0146-lru-cache/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
