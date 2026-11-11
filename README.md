@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0155-min-stack/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -415,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -427,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
