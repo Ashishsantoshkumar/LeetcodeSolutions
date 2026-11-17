@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1961-check-if-string-is-a-prefix-of-array/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2380-time-needed-to-rearrange-a-binary-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2810-faulty-keyboard](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2810-faulty-keyboard/) | Easy |
