@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1507-reformat-date/) | Easy |
 | [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1481-least-number-of-unique-integers-after-k-removals/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Bucket Sort
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/1717-maximum-score-from-removing-substrings/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Ashishsantoshkumar/LeetcodeSolutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Binary Search
